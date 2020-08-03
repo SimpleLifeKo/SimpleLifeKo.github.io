@@ -3,19 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://simplelifeko.github.io/archives/</loc>
+    <loc>https://simplelifeko.github.io/categories/</loc>
+    <lastmod>2020-08-03T21:58:06+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://simplelifeko.github.io/categories/</loc>
+    <loc>https://simplelifeko.github.io/post/</loc>
+    <lastmod>2020-08-03T21:58:06+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://simplelifeko.github.io/</loc>
+    <lastmod>2020-08-03T21:58:06+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://simplelifeko.github.io/tags/</loc>
+    <lastmod>2020-08-03T21:58:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simplelifeko.github.io/tags/%EC%8B%AC%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%94%84/</loc>
+    <lastmod>2020-08-03T21:58:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simplelifeko.github.io/categories/%EC%8B%AC%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%94%84/</loc>
+    <lastmod>2020-08-03T21:58:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simplelifeko.github.io/2020/08/%EC%8B%AC%ED%94%8C%EB%9D%BC%EC%9D%B4%ED%94%84/</loc>
+    <lastmod>2020-08-03T21:58:06+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://simplelifeko.github.io/archives/</loc>
   </url>
   
 </urlset>
